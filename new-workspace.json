@@ -1,0 +1,17 @@
+{
+	"name": "ic-terraform-sample2",
+	"type": [
+	  "terraform-v1.0"
+	],
+	"description": "IBM Cloud Schematics terraform sample",
+	"tags": [],
+	"template_repo": {
+	  "url": "https://github.com/tuyt-ch/ic-terraform-sample"
+	},
+	"template_data": [
+	  {
+		"folder": ".",
+		"type": "terraform-v1.0"
+	  }
+	]
+  }
